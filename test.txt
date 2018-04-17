@@ -1,0 +1,16 @@
+SelectBuildingFragment.java
+	}
+	object{
+		OpinionmessageObject.java
+		SelectBuildingObject.java
+	}		
+}
+res{
+	drawable{
+		ic_arrow.png
+	}
+	layout{
+		custom_listview_opinionmessage.xml
+		fragment_opinion_add.xml
+	}
+}
